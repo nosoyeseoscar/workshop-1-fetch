@@ -5,6 +5,6 @@ module.exports = {
     src: '/_dist_',
   },
   buildOptions: {
-    baseUrl: 'https://nosoyeseoscar.github.io/workshop-1-fetch.git',
+    baseUrl: 'https://nosoyeseoscar.github.io/workshop-1-fetch',
   },
 }
